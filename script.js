@@ -76,7 +76,7 @@ const questions = [{
     'b': 'Nawaz Sharif',
     'c': 'Asif AliZaradari',
     'd': 'Maryam Nawaz',
-    'correct': 'd'
+    'correct': 'a'
 },]
 
 const inputOptions = document.querySelectorAll('.options');
